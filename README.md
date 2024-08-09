@@ -1,0 +1,2 @@
+# Finance-assistance
+Using RAG
