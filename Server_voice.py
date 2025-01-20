@@ -45,7 +45,7 @@ def ASR_call(source_language, audio_base64):
     # Play the file and check manually (for debugging)
     # print(f"File {file_name} created successfully, size: {os.path.getsize(file_name)} bytes.")
     
-    asr_url = "http://121.242.232.220:5000/decode"
+    asr_url = "// your URL "
     # asr_url = api_asr
  
     asr_payload = {
@@ -67,7 +67,7 @@ def ASR_call(source_language, audio_base64):
     return None
  
 def MT_call(source_language, target_language, text_from_audio):
-    mt_url = "http://121.242.232.220:5002/mt"
+    mt_url = "// your URL "
     # mt_url = api_mt
  
     payload = {
@@ -82,7 +82,7 @@ def MT_call(source_language, target_language, text_from_audio):
     return translated_text
  
 def TTS_call(target_language, translated_text):
-    tts_url = "http://121.242.232.220:5010/tts"
+    tts_url = "Your URL "
     # tts_url = api_tts
     gender = 'male' 
    
