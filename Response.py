@@ -1,6 +1,6 @@
 # import requests
 
-# API_KEY = "AIzaSyAaWr5qukoqZy-n_S7kzKdScQiWABpelwA"
+# API_KEY = "gemini key"
 
 # def get_gemini_response(que,ans):
 
@@ -36,7 +36,7 @@ def gemini_model(que,ans):
     querry = "this is the question and its respective answer conver the answer in some humaniod/ easy form. keep the answer short under 50-70 words "
     prompt = que+ans+querry
 
-    Gemini_API_KEY = 'AIzaSyAWwdiMI4HHZI5kimobuxdtWg46TxPnWZ8'
+    Gemini_API_KEY = 'api key'
     genai.configure(api_key=Gemini_API_KEY)
     model = genai.GenerativeModel(model_name='gemini-1.5-flash-latest')
     response = model.generate_content(prompt)
