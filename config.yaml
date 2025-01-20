@@ -1,8 +1,8 @@
 ulcakeys:
-  api_key: "023043f5a8-232b-4d97-8211-3f02e847b03c"
-  uid: "fab68bae1dc648158911546d695959c4"
+  api_key: "your_apikey"
+  uid: "your_uid"
   gen: "female"
-  Authorization: "vAhBOFg8AT_gDkcevrkxRtwTygQIKIIYaYBhhuBcg9gmJ530FXYI35dNUg3r7miD"
+  Authorization: "key"
 
 ASR_config:
   nl_ServiceId : "ai4bharat/conformer-multilingual-indo_aryan-gpu--t4"
