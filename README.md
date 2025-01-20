@@ -3,6 +3,8 @@
 ## **Overview**
 This application enables voice-to-voice interaction in three Indian languages on finance-related topics. It combines cutting-edge technologies like Retrieval-Augmented Generation (RAG), Machine Translation (MT), Text-to-Speech (TTS), and external LLMs to provide accurate and context-aware responses for financial queries. 
 
+![Application Overview](https://github.com/rounit57/Finance-assistance/blob/main/Flowchart-Puchho.jpg)
+
 ## **Key Features**
 - **Voice-to-Voice Functionality**: Supports three Indian languages for a seamless interaction experience.
 - **Finance-Specific Dataset**: Includes:
@@ -23,4 +25,3 @@ This application enables voice-to-voice interaction in three Indian languages on
 
 ---
 
-Let me know if you'd like to add more sections like **Setup Instructions**, **How to Use**, **Dataset Details**, **Technical Workflow**, or anything else.
