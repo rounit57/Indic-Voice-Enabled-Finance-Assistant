@@ -1,4 +1,4 @@
-# **PUCHHO:Indic Voice-to-Voice Finance Application**
+# **Indic Voice Enabled Finance Assistant 🔊📱**
 
 ## **Overview**
 This application enables voice-to-voice interaction in three languages(English,Hindi and Tamil) on finance-related topics. It combines cutting-edge technologies like Retrieval-Augmented Generation (RAG), Machine Translation (MT), Text-to-Speech (TTS), and external LLMs to provide accurate and context-aware responses for financial queries. 
